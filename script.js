@@ -11,7 +11,7 @@ let totalPoint2 = document.querySelector(".totalPoint2");
 let currentScore1 = document.querySelector(".currentScore1");
 let currentScore2 = document.querySelector(".currentScore2");
 const reset = document.querySelector(".reset");
-const roll = document.querySelector(".roll");
+cons roll = document.querySelector(".roll");
 const hold = document.querySelector(".hold");
 
 let rand, total;
